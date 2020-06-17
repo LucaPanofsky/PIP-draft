@@ -1,5 +1,5 @@
 # PIP: partito indipendentista del popolo
-Analisi di *Gavagai?*
+Analisi e commenti di *Gavagai?* ai contenuti del [PIP](https://partitoindipendentistadelpopolo.wordpress.com/)
 
 ## PIP in breve
 
