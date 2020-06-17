@@ -11,8 +11,8 @@ Analisi e commenti di *Gavagai?* ai contenuti del [PIP](https://partitoindipende
  - degrado culturale.
 
 ## Ideologia
-Il PIP è in parte agnostico rispetto alle ideologie individuali dei suoi sostenitori.Tuttavia il PIP ha una visione chiara sugli scopi, sui mezzi e sui principi validi che ispirano le azioni necessarie:
-- Principio di cooperazione: collaborazione per identificare gli interessi comuni su base locale e il loro perseguimento;
+Il PIP è in parte agnostico rispetto alle ideologie individuali dei suoi sostenitori.Tuttavia il PIP ha una visione chiara degli scopi, dei mezzi e dei principi validi che ispirano le azioni necessarie:
+- Principio di cooperazione: collaborazione per identificare gli interessi comuni su base locale e collaborazione per il soddisfacimento degli interessi collettivi;
 - Governance decentralizzata: in opposizione alle logiche di governo centralizzate top-down;
 - Codice di comportamento: discende dalla dichiarazione universale dei diritti dell'uomo.
 
