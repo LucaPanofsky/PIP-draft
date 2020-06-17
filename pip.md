@@ -6,9 +6,9 @@ Analisi e commenti di *Gavagai?* ai contenuti del [PIP](https://partitoindipende
 **Obiettivi:**
 - Innovare l'organizzazione sociale per restituire ai cittadini il controllo del territorio su base locale;
 - Affrontare in modo concreto le seguenti problematiche:
- - disoccupazione dilagante;
- - disgregazione sociale;
- - degrado culturale.
+  - disoccupazione dilagante;
+  - disgregazione sociale;
+  - degrado culturale.
 
 ## Ideologia
 Il PIP è in parte agnostico rispetto alle ideologie individuali dei suoi sostenitori.Tuttavia il PIP ha una visione chiara degli scopi, dei mezzi e dei principi validi che ispirano le azioni necessarie:
