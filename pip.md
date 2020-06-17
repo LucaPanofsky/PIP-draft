@@ -23,4 +23,9 @@ Il PIP non è la tradizionale offerta politica disegnata dall'alto e venduta agl
 ----
 *In elaborazione:*
 
-Il PIP è diviso in ... il coordinamento è facilitato dal ...
+Il PIP è diviso in organismi autonomi e indipendenti gli uni dagli altri che possono federarsi tra loro. le sezioni che radunano dai 5 ai 100 iscritti e i comitati che radunano dalle 5 alle 50 sezioni. Quando i comitati riescono ad esprimere un sindaco PiP si forma un Comune PiP che è amministrato direttamente dall'assemblea dei comitati.
+
+A livello nazionale l'attività di tutte le sezioni e di tutti i comitati è semplificata dal coordinamento nazionale che non ha alcuna autorità sugli organismi locali e si limita a:
+1) raccogliere i documenti prodotti dalle varie sezioni e comitati; 
+2) offrire supporto logistico (a richiesta degli organismi locali); 
+3) promuovere le attività del PiP e la formazione di sezioni e comitati nei diversi comuni.
