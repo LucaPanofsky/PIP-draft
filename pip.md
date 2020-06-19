@@ -1,5 +1,5 @@
-# PIP: partito indipendentista del popolo
-Analisi e commenti di *Gavagai?* ai contenuti del [PIP](https://partitoindipendentistadelpopolo.wordpress.com/)
+# PiP: partito indipendentista del popolo
+Sintesi del [PiP](https://partitoindipendentistadelpopolo.wordpress.com/) scritta da *Gavagai?*
 
 ## PIP in breve
 
@@ -20,12 +20,18 @@ Il PIP è in parte agnostico rispetto alle ideologie individuali dei suoi sosten
 
 Il PIP non è la tradizionale offerta politica disegnata dall'alto e venduta agli elettori attraverso il mercato delle elezioni. Il PIP è una piattaforma attraverso la quale organizzare la società dal basso, con una governance decentralizzata, invertende la gerarchie e le catene del comando.
 
-----
-*In elaborazione:*
-
 Il PIP è diviso in organismi autonomi e indipendenti gli uni dagli altri che possono federarsi tra loro. le sezioni che radunano dai 5 ai 100 iscritti e i comitati che radunano dalle 5 alle 50 sezioni. Quando i comitati riescono ad esprimere un sindaco PiP si forma un Comune PiP che è amministrato direttamente dall'assemblea dei comitati.
 
 A livello nazionale l'attività di tutte le sezioni e di tutti i comitati è semplificata dal coordinamento nazionale che non ha alcuna autorità sugli organismi locali e si limita a:
-1) raccogliere i documenti prodotti dalle varie sezioni e comitati; 
-2) offrire supporto logistico (a richiesta degli organismi locali); 
-3) promuovere le attività del PiP e la formazione di sezioni e comitati nei diversi comuni.
+1. raccogliere i documenti prodotti dalle varie sezioni e comitati;
+2. offrire supporto logistico (a richiesta degli organismi locali);
+3. promuovere le attività del PiP e la formazione di sezioni e comitati nei diversi comuni.
+
+## Autonomia, svilupparsi, diffondersi: Aziende PiP
+
+Per organizzare la società dal basso, attraverso una governance decentralizzata, è necessario creare una infrastruttura che permetta ai cittadini di interfacciarsi e collaborare *anche* attraverso il mercato. L'obiettivo di contrastare la disoccupazione in modo attivo, di focalizzarsi sulla costruzione di infrastrutture pubbliche, viene perseguito in modo autonomo dalle [Aziende PiP](https://partitoindipendentistadelpopolo.wordpress.com/aziende-pip/).
+
+Per definirsi azienda PiP, una azienda deve soddisfare le seguenti regole generali:
+1. la azienda appartiene agli iscritti e ai lavoratori. Le quote di proprietà sono distribuite in modo equo;
+2. la gestione della azienda spetta a lavoratori;
+3. No extra-profitto, l'azienda non redistribuise utili ai soci. I profitti possono comunque essere reinvestiti nella azienda stessa o destinati a finanziare altri progetti.
